@@ -1,6 +1,11 @@
-# Contributing to [Project Name]
+# Contributing to C++ Mini Projects
 
-Thank you for considering contributing to our project! We welcome your help to make our project better.
+Thank you for considering contributing to this project! We welcome your help to make the project better.
+
+## Working on issues
+
+- Comment on issues you want to work on and it will be assigned to you.
+- Pull requests will be accepted even if you are not assigned to an issue but it is preferred you comment on the issue first.
 
 ## How to Contribute
 
@@ -20,14 +25,11 @@ Thank you for considering contributing to our project! We welcome your help to m
 
 ## Code of Conduct
 
-Please adhere to the [Code of Conduct](CODE_OF_CONDUCT.md) in all your interactions regarding the project.
+Please adhere to the [Code of Conduct](CODEOFCONDUCT.md) in all your interactions regarding the project.
 
-## Reporting Bugs
+## Questions
 
-If you find a bug, please open an **issue**, providing details like the operating system, version, steps to reproduce, and expected behavior.
+If you have any questions, feel free to reach out by creating an issue.
 
-## Contact
-
-If you have questions or need further assistance, please contact [Maintainer Name](Maintainer Email).
 
 We appreciate your contribution!
