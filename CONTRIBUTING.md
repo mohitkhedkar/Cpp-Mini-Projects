@@ -4,7 +4,7 @@ Thank you for considering contributing to this project! We welcome your help to 
 
 ## Working on issues
 
-- Comment on issues you want to work on and it will be assigned to you.
+- Comment on an issue you would like to work on and it will be assigned to you.
 - Pull requests will be accepted even if you are not assigned to an issue but it is preferred you comment on the issue first.
 
 ## How to Contribute
