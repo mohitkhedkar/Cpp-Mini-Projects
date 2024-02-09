@@ -36,6 +36,4 @@ This is a C++ implementation of a simple Minesweeper game where the player mines
 - This code assumes a Windows environment due to the use of `conio.h`. Adjustments may be necessary for compatibility with other operating systems.
 - Ensure that the appropriate compiler and build environment are set up to compile and run the C++ code.
 
-## License
-This project is licensed under the [MIT License](LICENSE).
 
